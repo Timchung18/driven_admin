@@ -41,7 +41,7 @@ const MyBarChart = ({data}) => {
       >
         <CartesianGrid strokeDasharray="3 3" />
         <XAxis dataKey="month" />
-        <YAxis />
+        <YAxis label={{ value: 'Number of Tickets', angle: -90, position: 'insideLeft' }} />
         <Tooltip />
         <Legend />
         <Bar dataKey="traditionalCompletedTickets" name="Paid in Full" fill="#8884d8" />
