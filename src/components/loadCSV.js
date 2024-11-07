@@ -32,7 +32,7 @@ function CsvViewer() {
     keys.forEach((key) => {
       sums[key] = 0;
     });
-    const keyToProcess = ["overdue_charge_amount", "is_overdue", ]
+    
     // Calculate the sum for each column that contains numeric data
     parsedData.forEach((row) => {
       keys.forEach((key) => {
