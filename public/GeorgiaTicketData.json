@@ -1,0 +1,2387 @@
+[
+    {
+        "county": "Appling",
+        "payInFull": {
+            "numPaidTickets": 65,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 43,
+            "amountCollected": 10431.56
+        },
+        "payInFour": {
+            "numPaidTickets": 256,
+            "numOutstandingTickets": 52,
+            "numOverdueTickets": 31,
+            "amountCollected": 16784.67
+        }
+    },
+    {
+        "county": "Atkinson",
+        "payInFull": {
+            "numPaidTickets": 124,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 59,
+            "amountCollected": 8597.44
+        },
+        "payInFour": {
+            "numPaidTickets": 165,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 36,
+            "amountCollected": 19511.64
+        }
+    },
+    {
+        "county": "Bacon",
+        "payInFull": {
+            "numPaidTickets": 93,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 42,
+            "amountCollected": 8116.4
+        },
+        "payInFour": {
+            "numPaidTickets": 121,
+            "numOutstandingTickets": 59,
+            "numOverdueTickets": 24,
+            "amountCollected": 15911.54
+        }
+    },
+    {
+        "county": "Baker",
+        "payInFull": {
+            "numPaidTickets": 91,
+            "numOutstandingTickets": 75,
+            "numOverdueTickets": 56,
+            "amountCollected": 10489.23
+        },
+        "payInFour": {
+            "numPaidTickets": 238,
+            "numOutstandingTickets": 65,
+            "numOverdueTickets": 27,
+            "amountCollected": 18326.56
+        }
+    },
+    {
+        "county": "Baldwin",
+        "payInFull": {
+            "numPaidTickets": 115,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 56,
+            "amountCollected": 10417.21
+        },
+        "payInFour": {
+            "numPaidTickets": 221,
+            "numOutstandingTickets": 56,
+            "numOverdueTickets": 20,
+            "amountCollected": 15811.44
+        }
+    },
+    {
+        "county": "Banks",
+        "payInFull": {
+            "numPaidTickets": 74,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 60,
+            "amountCollected": 9297.67
+        },
+        "payInFour": {
+            "numPaidTickets": 169,
+            "numOutstandingTickets": 84,
+            "numOverdueTickets": 24,
+            "amountCollected": 14755.2
+        }
+    },
+    {
+        "county": "Barrow",
+        "payInFull": {
+            "numPaidTickets": 65,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 60,
+            "amountCollected": 9438.65
+        },
+        "payInFour": {
+            "numPaidTickets": 179,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 21,
+            "amountCollected": 17696.02
+        }
+    },
+    {
+        "county": "Bartow",
+        "payInFull": {
+            "numPaidTickets": 129,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 48,
+            "amountCollected": 10607.44
+        },
+        "payInFour": {
+            "numPaidTickets": 193,
+            "numOutstandingTickets": 72,
+            "numOverdueTickets": 44,
+            "amountCollected": 15615.43
+        }
+    },
+    {
+        "county": "Ben Hill",
+        "payInFull": {
+            "numPaidTickets": 119,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 49,
+            "amountCollected": 8537.75
+        },
+        "payInFour": {
+            "numPaidTickets": 255,
+            "numOutstandingTickets": 70,
+            "numOverdueTickets": 35,
+            "amountCollected": 20072.3
+        }
+    },
+    {
+        "county": "Berrien",
+        "payInFull": {
+            "numPaidTickets": 94,
+            "numOutstandingTickets": 77,
+            "numOverdueTickets": 53,
+            "amountCollected": 9418.98
+        },
+        "payInFour": {
+            "numPaidTickets": 248,
+            "numOutstandingTickets": 56,
+            "numOverdueTickets": 34,
+            "amountCollected": 15652.64
+        }
+    },
+    {
+        "county": "Bibb",
+        "payInFull": {
+            "numPaidTickets": 116,
+            "numOutstandingTickets": 97,
+            "numOverdueTickets": 56,
+            "amountCollected": 8378.83
+        },
+        "payInFour": {
+            "numPaidTickets": 215,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 31,
+            "amountCollected": 13981
+        }
+    },
+    {
+        "county": "Bleckley",
+        "payInFull": {
+            "numPaidTickets": 126,
+            "numOutstandingTickets": 85,
+            "numOverdueTickets": 41,
+            "amountCollected": 9974.39
+        },
+        "payInFour": {
+            "numPaidTickets": 125,
+            "numOutstandingTickets": 66,
+            "numOverdueTickets": 25,
+            "amountCollected": 17716.71
+        }
+    },
+    {
+        "county": "Brantley",
+        "payInFull": {
+            "numPaidTickets": 110,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 44,
+            "amountCollected": 10650.86
+        },
+        "payInFour": {
+            "numPaidTickets": 163,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 40,
+            "amountCollected": 17870.35
+        }
+    },
+    {
+        "county": "Brooks",
+        "payInFull": {
+            "numPaidTickets": 122,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 48,
+            "amountCollected": 9253.16
+        },
+        "payInFour": {
+            "numPaidTickets": 187,
+            "numOutstandingTickets": 63,
+            "numOverdueTickets": 28,
+            "amountCollected": 20139.67
+        }
+    },
+    {
+        "county": "Bryan",
+        "payInFull": {
+            "numPaidTickets": 114,
+            "numOutstandingTickets": 78,
+            "numOverdueTickets": 53,
+            "amountCollected": 10225.07
+        },
+        "payInFour": {
+            "numPaidTickets": 189,
+            "numOutstandingTickets": 78,
+            "numOverdueTickets": 45,
+            "amountCollected": 18971.59
+        }
+    },
+    {
+        "county": "Bulloch",
+        "payInFull": {
+            "numPaidTickets": 64,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 43,
+            "amountCollected": 8167.96
+        },
+        "payInFour": {
+            "numPaidTickets": 213,
+            "numOutstandingTickets": 57,
+            "numOverdueTickets": 33,
+            "amountCollected": 14131.26
+        }
+    },
+    {
+        "county": "Burke",
+        "payInFull": {
+            "numPaidTickets": 63,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 45,
+            "amountCollected": 8308.16
+        },
+        "payInFour": {
+            "numPaidTickets": 171,
+            "numOutstandingTickets": 54,
+            "numOverdueTickets": 39,
+            "amountCollected": 18969.4
+        }
+    },
+    {
+        "county": "Butts",
+        "payInFull": {
+            "numPaidTickets": 109,
+            "numOutstandingTickets": 79,
+            "numOverdueTickets": 45,
+            "amountCollected": 9288.89
+        },
+        "payInFour": {
+            "numPaidTickets": 217,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 36,
+            "amountCollected": 20506.82
+        }
+    },
+    {
+        "county": "Calhoun",
+        "payInFull": {
+            "numPaidTickets": 89,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 48,
+            "amountCollected": 8207.88
+        },
+        "payInFour": {
+            "numPaidTickets": 176,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 30,
+            "amountCollected": 19482.18
+        }
+    },
+    {
+        "county": "Camden",
+        "payInFull": {
+            "numPaidTickets": 77,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 60,
+            "amountCollected": 8688.95
+        },
+        "payInFour": {
+            "numPaidTickets": 242,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 29,
+            "amountCollected": 20707.88
+        }
+    },
+    {
+        "county": "Candler",
+        "payInFull": {
+            "numPaidTickets": 133,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 54,
+            "amountCollected": 8276.35
+        },
+        "payInFour": {
+            "numPaidTickets": 177,
+            "numOutstandingTickets": 55,
+            "numOverdueTickets": 36,
+            "amountCollected": 19183.15
+        }
+    },
+    {
+        "county": "Carroll",
+        "payInFull": {
+            "numPaidTickets": 95,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 49,
+            "amountCollected": 8402.36
+        },
+        "payInFour": {
+            "numPaidTickets": 180,
+            "numOutstandingTickets": 59,
+            "numOverdueTickets": 39,
+            "amountCollected": 16294.43
+        }
+    },
+    {
+        "county": "Catoosa",
+        "payInFull": {
+            "numPaidTickets": 70,
+            "numOutstandingTickets": 75,
+            "numOverdueTickets": 49,
+            "amountCollected": 8516.47
+        },
+        "payInFour": {
+            "numPaidTickets": 170,
+            "numOutstandingTickets": 51,
+            "numOverdueTickets": 38,
+            "amountCollected": 19024.73
+        }
+    },
+    {
+        "county": "Charlton",
+        "payInFull": {
+            "numPaidTickets": 98,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 56,
+            "amountCollected": 8064.92
+        },
+        "payInFour": {
+            "numPaidTickets": 278,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 40,
+            "amountCollected": 19013.08
+        }
+    },
+    {
+        "county": "Chatham",
+        "payInFull": {
+            "numPaidTickets": 132,
+            "numOutstandingTickets": 76,
+            "numOverdueTickets": 49,
+            "amountCollected": 10071.38
+        },
+        "payInFour": {
+            "numPaidTickets": 122,
+            "numOutstandingTickets": 69,
+            "numOverdueTickets": 38,
+            "amountCollected": 15588.14
+        }
+    },
+    {
+        "county": "Chattahoochee",
+        "payInFull": {
+            "numPaidTickets": 64,
+            "numOutstandingTickets": 97,
+            "numOverdueTickets": 42,
+            "amountCollected": 9379.89
+        },
+        "payInFour": {
+            "numPaidTickets": 194,
+            "numOutstandingTickets": 56,
+            "numOverdueTickets": 37,
+            "amountCollected": 18010.6
+        }
+    },
+    {
+        "county": "Chattooga",
+        "payInFull": {
+            "numPaidTickets": 90,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 59,
+            "amountCollected": 8539.03
+        },
+        "payInFour": {
+            "numPaidTickets": 137,
+            "numOutstandingTickets": 73,
+            "numOverdueTickets": 22,
+            "amountCollected": 14630.25
+        }
+    },
+    {
+        "county": "Cherokee",
+        "payInFull": {
+            "numPaidTickets": 122,
+            "numOutstandingTickets": 75,
+            "numOverdueTickets": 57,
+            "amountCollected": 9557.36
+        },
+        "payInFour": {
+            "numPaidTickets": 140,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 28,
+            "amountCollected": 14247.29
+        }
+    },
+    {
+        "county": "Clarke",
+        "payInFull": {
+            "numPaidTickets": 80,
+            "numOutstandingTickets": 75,
+            "numOverdueTickets": 41,
+            "amountCollected": 8470.56
+        },
+        "payInFour": {
+            "numPaidTickets": 186,
+            "numOutstandingTickets": 71,
+            "numOverdueTickets": 29,
+            "amountCollected": 17596.18
+        }
+    },
+    {
+        "county": "Clay",
+        "payInFull": {
+            "numPaidTickets": 61,
+            "numOutstandingTickets": 95,
+            "numOverdueTickets": 45,
+            "amountCollected": 10774.95
+        },
+        "payInFour": {
+            "numPaidTickets": 151,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 22,
+            "amountCollected": 14366.3
+        }
+    },
+    {
+        "county": "Clayton",
+        "payInFull": {
+            "numPaidTickets": 121,
+            "numOutstandingTickets": 90,
+            "numOverdueTickets": 45,
+            "amountCollected": 9010.04
+        },
+        "payInFour": {
+            "numPaidTickets": 149,
+            "numOutstandingTickets": 56,
+            "numOverdueTickets": 31,
+            "amountCollected": 18441.91
+        }
+    },
+    {
+        "county": "Clinch",
+        "payInFull": {
+            "numPaidTickets": 112,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 45,
+            "amountCollected": 9600.43
+        },
+        "payInFour": {
+            "numPaidTickets": 135,
+            "numOutstandingTickets": 79,
+            "numOverdueTickets": 31,
+            "amountCollected": 20589.29
+        }
+    },
+    {
+        "county": "Cobb",
+        "payInFull": {
+            "numPaidTickets": 111,
+            "numOutstandingTickets": 97,
+            "numOverdueTickets": 60,
+            "amountCollected": 8179.52
+        },
+        "payInFour": {
+            "numPaidTickets": 224,
+            "numOutstandingTickets": 66,
+            "numOverdueTickets": 44,
+            "amountCollected": 20826.91
+        }
+    },
+    {
+        "county": "Coffee",
+        "payInFull": {
+            "numPaidTickets": 66,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 40,
+            "amountCollected": 9356.76
+        },
+        "payInFour": {
+            "numPaidTickets": 238,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 34,
+            "amountCollected": 14497.49
+        }
+    },
+    {
+        "county": "Colquitt",
+        "payInFull": {
+            "numPaidTickets": 61,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 46,
+            "amountCollected": 9298.4
+        },
+        "payInFour": {
+            "numPaidTickets": 254,
+            "numOutstandingTickets": 68,
+            "numOverdueTickets": 30,
+            "amountCollected": 18238.98
+        }
+    },
+    {
+        "county": "Columbia",
+        "payInFull": {
+            "numPaidTickets": 122,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 60,
+            "amountCollected": 8381.92
+        },
+        "payInFour": {
+            "numPaidTickets": 128,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 32,
+            "amountCollected": 15237.59
+        }
+    },
+    {
+        "county": "Cook",
+        "payInFull": {
+            "numPaidTickets": 82,
+            "numOutstandingTickets": 95,
+            "numOverdueTickets": 55,
+            "amountCollected": 10938.65
+        },
+        "payInFour": {
+            "numPaidTickets": 149,
+            "numOutstandingTickets": 72,
+            "numOverdueTickets": 36,
+            "amountCollected": 16269.84
+        }
+    },
+    {
+        "county": "Coweta",
+        "payInFull": {
+            "numPaidTickets": 134,
+            "numOutstandingTickets": 76,
+            "numOverdueTickets": 46,
+            "amountCollected": 10603.29
+        },
+        "payInFour": {
+            "numPaidTickets": 229,
+            "numOutstandingTickets": 65,
+            "numOverdueTickets": 26,
+            "amountCollected": 17465.42
+        }
+    },
+    {
+        "county": "Crawford",
+        "payInFull": {
+            "numPaidTickets": 67,
+            "numOutstandingTickets": 90,
+            "numOverdueTickets": 49,
+            "amountCollected": 9507.47
+        },
+        "payInFour": {
+            "numPaidTickets": 134,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 35,
+            "amountCollected": 20944.82
+        }
+    },
+    {
+        "county": "Crisp",
+        "payInFull": {
+            "numPaidTickets": 75,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 47,
+            "amountCollected": 9059.18
+        },
+        "payInFour": {
+            "numPaidTickets": 221,
+            "numOutstandingTickets": 51,
+            "numOverdueTickets": 37,
+            "amountCollected": 19308.38
+        }
+    },
+    {
+        "county": "Dade",
+        "payInFull": {
+            "numPaidTickets": 139,
+            "numOutstandingTickets": 89,
+            "numOverdueTickets": 56,
+            "amountCollected": 9297.02
+        },
+        "payInFour": {
+            "numPaidTickets": 193,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 41,
+            "amountCollected": 15540.9
+        }
+    },
+    {
+        "county": "Dawson",
+        "payInFull": {
+            "numPaidTickets": 66,
+            "numOutstandingTickets": 97,
+            "numOverdueTickets": 49,
+            "amountCollected": 10641.46
+        },
+        "payInFour": {
+            "numPaidTickets": 183,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 28,
+            "amountCollected": 13849.55
+        }
+    },
+    {
+        "county": "Decatur",
+        "payInFull": {
+            "numPaidTickets": 116,
+            "numOutstandingTickets": 95,
+            "numOverdueTickets": 41,
+            "amountCollected": 8260.61
+        },
+        "payInFour": {
+            "numPaidTickets": 269,
+            "numOutstandingTickets": 89,
+            "numOverdueTickets": 23,
+            "amountCollected": 20267.22
+        }
+    },
+    {
+        "county": "DeKalb",
+        "payInFull": {
+            "numPaidTickets": 90,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 50,
+            "amountCollected": 9014.54
+        },
+        "payInFour": {
+            "numPaidTickets": 149,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 26,
+            "amountCollected": 13427.88
+        }
+    },
+    {
+        "county": "Dodge",
+        "payInFull": {
+            "numPaidTickets": 92,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 40,
+            "amountCollected": 8483.27
+        },
+        "payInFour": {
+            "numPaidTickets": 182,
+            "numOutstandingTickets": 92,
+            "numOverdueTickets": 30,
+            "amountCollected": 18970.5
+        }
+    },
+    {
+        "county": "Dooly",
+        "payInFull": {
+            "numPaidTickets": 138,
+            "numOutstandingTickets": 77,
+            "numOverdueTickets": 42,
+            "amountCollected": 9558.21
+        },
+        "payInFour": {
+            "numPaidTickets": 175,
+            "numOutstandingTickets": 95,
+            "numOverdueTickets": 28,
+            "amountCollected": 17185.21
+        }
+    },
+    {
+        "county": "Dougherty",
+        "payInFull": {
+            "numPaidTickets": 80,
+            "numOutstandingTickets": 92,
+            "numOverdueTickets": 54,
+            "amountCollected": 8033.57
+        },
+        "payInFour": {
+            "numPaidTickets": 251,
+            "numOutstandingTickets": 51,
+            "numOverdueTickets": 30,
+            "amountCollected": 17742.52
+        }
+    },
+    {
+        "county": "Douglas",
+        "payInFull": {
+            "numPaidTickets": 123,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 50,
+            "amountCollected": 8807.37
+        },
+        "payInFour": {
+            "numPaidTickets": 129,
+            "numOutstandingTickets": 62,
+            "numOverdueTickets": 22,
+            "amountCollected": 16274.24
+        }
+    },
+    {
+        "county": "Early",
+        "payInFull": {
+            "numPaidTickets": 120,
+            "numOutstandingTickets": 97,
+            "numOverdueTickets": 55,
+            "amountCollected": 10282.97
+        },
+        "payInFour": {
+            "numPaidTickets": 257,
+            "numOutstandingTickets": 51,
+            "numOverdueTickets": 25,
+            "amountCollected": 17249.9
+        }
+    },
+    {
+        "county": "Echols",
+        "payInFull": {
+            "numPaidTickets": 118,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 49,
+            "amountCollected": 10485.98
+        },
+        "payInFour": {
+            "numPaidTickets": 213,
+            "numOutstandingTickets": 54,
+            "numOverdueTickets": 45,
+            "amountCollected": 20461.03
+        }
+    },
+    {
+        "county": "Effingham",
+        "payInFull": {
+            "numPaidTickets": 61,
+            "numOutstandingTickets": 90,
+            "numOverdueTickets": 60,
+            "amountCollected": 8354.15
+        },
+        "payInFour": {
+            "numPaidTickets": 196,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 45,
+            "amountCollected": 16698.21
+        }
+    },
+    {
+        "county": "Elbert",
+        "payInFull": {
+            "numPaidTickets": 101,
+            "numOutstandingTickets": 84,
+            "numOverdueTickets": 52,
+            "amountCollected": 10113.97
+        },
+        "payInFour": {
+            "numPaidTickets": 277,
+            "numOutstandingTickets": 66,
+            "numOverdueTickets": 39,
+            "amountCollected": 19724.25
+        }
+    },
+    {
+        "county": "Emanuel",
+        "payInFull": {
+            "numPaidTickets": 103,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 47,
+            "amountCollected": 9425.14
+        },
+        "payInFour": {
+            "numPaidTickets": 188,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 23,
+            "amountCollected": 20046.94
+        }
+    },
+    {
+        "county": "Evans",
+        "payInFull": {
+            "numPaidTickets": 105,
+            "numOutstandingTickets": 95,
+            "numOverdueTickets": 46,
+            "amountCollected": 8289.11
+        },
+        "payInFour": {
+            "numPaidTickets": 174,
+            "numOutstandingTickets": 54,
+            "numOverdueTickets": 45,
+            "amountCollected": 16131.77
+        }
+    },
+    {
+        "county": "Fannin",
+        "payInFull": {
+            "numPaidTickets": 72,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 51,
+            "amountCollected": 9634.04
+        },
+        "payInFour": {
+            "numPaidTickets": 270,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 25,
+            "amountCollected": 16625.68
+        }
+    },
+    {
+        "county": "Fayette",
+        "payInFull": {
+            "numPaidTickets": 63,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 59,
+            "amountCollected": 9604.75
+        },
+        "payInFour": {
+            "numPaidTickets": 145,
+            "numOutstandingTickets": 50,
+            "numOverdueTickets": 20,
+            "amountCollected": 20131.6
+        }
+    },
+    {
+        "county": "Floyd",
+        "payInFull": {
+            "numPaidTickets": 76,
+            "numOutstandingTickets": 88,
+            "numOverdueTickets": 58,
+            "amountCollected": 10185.71
+        },
+        "payInFour": {
+            "numPaidTickets": 143,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 21,
+            "amountCollected": 16972.4
+        }
+    },
+    {
+        "county": "Forsyth",
+        "payInFull": {
+            "numPaidTickets": 67,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 41,
+            "amountCollected": 8338.22
+        },
+        "payInFour": {
+            "numPaidTickets": 192,
+            "numOutstandingTickets": 57,
+            "numOverdueTickets": 35,
+            "amountCollected": 18509.15
+        }
+    },
+    {
+        "county": "Franklin",
+        "payInFull": {
+            "numPaidTickets": 69,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 56,
+            "amountCollected": 8239.74
+        },
+        "payInFour": {
+            "numPaidTickets": 264,
+            "numOutstandingTickets": 74,
+            "numOverdueTickets": 37,
+            "amountCollected": 18919.84
+        }
+    },
+    {
+        "county": "Fulton",
+        "payInFull": {
+            "numPaidTickets": 100,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 53,
+            "amountCollected": 10149.48
+        },
+        "payInFour": {
+            "numPaidTickets": 192,
+            "numOutstandingTickets": 65,
+            "numOverdueTickets": 30,
+            "amountCollected": 19845.56
+        }
+    },
+    {
+        "county": "Gilmer",
+        "payInFull": {
+            "numPaidTickets": 97,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 51,
+            "amountCollected": 8946.36
+        },
+        "payInFour": {
+            "numPaidTickets": 194,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 33,
+            "amountCollected": 13518.5
+        }
+    },
+    {
+        "county": "Glascock",
+        "payInFull": {
+            "numPaidTickets": 108,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 56,
+            "amountCollected": 9721.6
+        },
+        "payInFour": {
+            "numPaidTickets": 140,
+            "numOutstandingTickets": 90,
+            "numOverdueTickets": 21,
+            "amountCollected": 18985.64
+        }
+    },
+    {
+        "county": "Glynn",
+        "payInFull": {
+            "numPaidTickets": 69,
+            "numOutstandingTickets": 77,
+            "numOverdueTickets": 44,
+            "amountCollected": 10864.08
+        },
+        "payInFour": {
+            "numPaidTickets": 163,
+            "numOutstandingTickets": 53,
+            "numOverdueTickets": 33,
+            "amountCollected": 17170.23
+        }
+    },
+    {
+        "county": "Gordon",
+        "payInFull": {
+            "numPaidTickets": 120,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 53,
+            "amountCollected": 9943.18
+        },
+        "payInFour": {
+            "numPaidTickets": 155,
+            "numOutstandingTickets": 89,
+            "numOverdueTickets": 33,
+            "amountCollected": 20159.03
+        }
+    },
+    {
+        "county": "Grady",
+        "payInFull": {
+            "numPaidTickets": 78,
+            "numOutstandingTickets": 77,
+            "numOverdueTickets": 56,
+            "amountCollected": 9080.08
+        },
+        "payInFour": {
+            "numPaidTickets": 245,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 34,
+            "amountCollected": 17022.4
+        }
+    },
+    {
+        "county": "Greene",
+        "payInFull": {
+            "numPaidTickets": 117,
+            "numOutstandingTickets": 78,
+            "numOverdueTickets": 42,
+            "amountCollected": 9660.07
+        },
+        "payInFour": {
+            "numPaidTickets": 125,
+            "numOutstandingTickets": 72,
+            "numOverdueTickets": 30,
+            "amountCollected": 18548.22
+        }
+    },
+    {
+        "county": "Gwinnett",
+        "payInFull": {
+            "numPaidTickets": 76,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 43,
+            "amountCollected": 9110.89
+        },
+        "payInFour": {
+            "numPaidTickets": 153,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 41,
+            "amountCollected": 15441.38
+        }
+    },
+    {
+        "county": "Habersham",
+        "payInFull": {
+            "numPaidTickets": 121,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 54,
+            "amountCollected": 8454.77
+        },
+        "payInFour": {
+            "numPaidTickets": 251,
+            "numOutstandingTickets": 74,
+            "numOverdueTickets": 24,
+            "amountCollected": 14983.9
+        }
+    },
+    {
+        "county": "Hall",
+        "payInFull": {
+            "numPaidTickets": 106,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 57,
+            "amountCollected": 9385.79
+        },
+        "payInFour": {
+            "numPaidTickets": 172,
+            "numOutstandingTickets": 63,
+            "numOverdueTickets": 37,
+            "amountCollected": 15417.98
+        }
+    },
+    {
+        "county": "Hancock",
+        "payInFull": {
+            "numPaidTickets": 135,
+            "numOutstandingTickets": 84,
+            "numOverdueTickets": 55,
+            "amountCollected": 10573.06
+        },
+        "payInFour": {
+            "numPaidTickets": 173,
+            "numOutstandingTickets": 89,
+            "numOverdueTickets": 21,
+            "amountCollected": 17984.45
+        }
+    },
+    {
+        "county": "Haralson",
+        "payInFull": {
+            "numPaidTickets": 86,
+            "numOutstandingTickets": 92,
+            "numOverdueTickets": 41,
+            "amountCollected": 9011.39
+        },
+        "payInFour": {
+            "numPaidTickets": 258,
+            "numOutstandingTickets": 61,
+            "numOverdueTickets": 35,
+            "amountCollected": 19059.73
+        }
+    },
+    {
+        "county": "Harris",
+        "payInFull": {
+            "numPaidTickets": 109,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 56,
+            "amountCollected": 8329.14
+        },
+        "payInFour": {
+            "numPaidTickets": 245,
+            "numOutstandingTickets": 74,
+            "numOverdueTickets": 24,
+            "amountCollected": 17811.03
+        }
+    },
+    {
+        "county": "Hart",
+        "payInFull": {
+            "numPaidTickets": 134,
+            "numOutstandingTickets": 84,
+            "numOverdueTickets": 60,
+            "amountCollected": 9827.01
+        },
+        "payInFour": {
+            "numPaidTickets": 152,
+            "numOutstandingTickets": 60,
+            "numOverdueTickets": 25,
+            "amountCollected": 19321.07
+        }
+    },
+    {
+        "county": "Heard",
+        "payInFull": {
+            "numPaidTickets": 68,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 51,
+            "amountCollected": 9963.87
+        },
+        "payInFour": {
+            "numPaidTickets": 132,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 26,
+            "amountCollected": 17076.12
+        }
+    },
+    {
+        "county": "Henry",
+        "payInFull": {
+            "numPaidTickets": 110,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 55,
+            "amountCollected": 10791.27
+        },
+        "payInFour": {
+            "numPaidTickets": 175,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 44,
+            "amountCollected": 14803.6
+        }
+    },
+    {
+        "county": "Houston",
+        "payInFull": {
+            "numPaidTickets": 74,
+            "numOutstandingTickets": 90,
+            "numOverdueTickets": 50,
+            "amountCollected": 9262.94
+        },
+        "payInFour": {
+            "numPaidTickets": 160,
+            "numOutstandingTickets": 70,
+            "numOverdueTickets": 26,
+            "amountCollected": 19406.22
+        }
+    },
+    {
+        "county": "Irwin",
+        "payInFull": {
+            "numPaidTickets": 85,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 50,
+            "amountCollected": 10071.33
+        },
+        "payInFour": {
+            "numPaidTickets": 203,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 36,
+            "amountCollected": 20169.3
+        }
+    },
+    {
+        "county": "Jackson",
+        "payInFull": {
+            "numPaidTickets": 133,
+            "numOutstandingTickets": 95,
+            "numOverdueTickets": 50,
+            "amountCollected": 8559.58
+        },
+        "payInFour": {
+            "numPaidTickets": 253,
+            "numOutstandingTickets": 66,
+            "numOverdueTickets": 40,
+            "amountCollected": 20213.55
+        }
+    },
+    {
+        "county": "Jasper",
+        "payInFull": {
+            "numPaidTickets": 112,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 56,
+            "amountCollected": 8345.05
+        },
+        "payInFour": {
+            "numPaidTickets": 245,
+            "numOutstandingTickets": 72,
+            "numOverdueTickets": 21,
+            "amountCollected": 14641.86
+        }
+    },
+    {
+        "county": "Jeff Davis",
+        "payInFull": {
+            "numPaidTickets": 103,
+            "numOutstandingTickets": 79,
+            "numOverdueTickets": 58,
+            "amountCollected": 10074.98
+        },
+        "payInFour": {
+            "numPaidTickets": 212,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 24,
+            "amountCollected": 16664.08
+        }
+    },
+    {
+        "county": "Jefferson",
+        "payInFull": {
+            "numPaidTickets": 114,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 54,
+            "amountCollected": 10124.29
+        },
+        "payInFour": {
+            "numPaidTickets": 197,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 21,
+            "amountCollected": 14504.36
+        }
+    },
+    {
+        "county": "Jenkins",
+        "payInFull": {
+            "numPaidTickets": 84,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 47,
+            "amountCollected": 9280.68
+        },
+        "payInFour": {
+            "numPaidTickets": 179,
+            "numOutstandingTickets": 76,
+            "numOverdueTickets": 23,
+            "amountCollected": 18056.2
+        }
+    },
+    {
+        "county": "Johnson",
+        "payInFull": {
+            "numPaidTickets": 96,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 40,
+            "amountCollected": 9287.76
+        },
+        "payInFour": {
+            "numPaidTickets": 240,
+            "numOutstandingTickets": 56,
+            "numOverdueTickets": 36,
+            "amountCollected": 15064.86
+        }
+    },
+    {
+        "county": "Jones",
+        "payInFull": {
+            "numPaidTickets": 82,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 49,
+            "amountCollected": 8132.54
+        },
+        "payInFour": {
+            "numPaidTickets": 202,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 42,
+            "amountCollected": 17944.09
+        }
+    },
+    {
+        "county": "Lamar",
+        "payInFull": {
+            "numPaidTickets": 77,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 57,
+            "amountCollected": 9575.6
+        },
+        "payInFour": {
+            "numPaidTickets": 235,
+            "numOutstandingTickets": 90,
+            "numOverdueTickets": 21,
+            "amountCollected": 14113.82
+        }
+    },
+    {
+        "county": "Lanier",
+        "payInFull": {
+            "numPaidTickets": 104,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 50,
+            "amountCollected": 8645.03
+        },
+        "payInFour": {
+            "numPaidTickets": 185,
+            "numOutstandingTickets": 51,
+            "numOverdueTickets": 43,
+            "amountCollected": 13280.36
+        }
+    },
+    {
+        "county": "Laurens",
+        "payInFull": {
+            "numPaidTickets": 81,
+            "numOutstandingTickets": 75,
+            "numOverdueTickets": 60,
+            "amountCollected": 8850.66
+        },
+        "payInFour": {
+            "numPaidTickets": 275,
+            "numOutstandingTickets": 56,
+            "numOverdueTickets": 38,
+            "amountCollected": 18640.2
+        }
+    },
+    {
+        "county": "Lee",
+        "payInFull": {
+            "numPaidTickets": 63,
+            "numOutstandingTickets": 79,
+            "numOverdueTickets": 56,
+            "amountCollected": 9847.4
+        },
+        "payInFour": {
+            "numPaidTickets": 133,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 45,
+            "amountCollected": 14305.7
+        }
+    },
+    {
+        "county": "Liberty",
+        "payInFull": {
+            "numPaidTickets": 121,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 47,
+            "amountCollected": 10746.35
+        },
+        "payInFour": {
+            "numPaidTickets": 173,
+            "numOutstandingTickets": 71,
+            "numOverdueTickets": 20,
+            "amountCollected": 20548.07
+        }
+    },
+    {
+        "county": "Lincoln",
+        "payInFull": {
+            "numPaidTickets": 93,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 50,
+            "amountCollected": 10186.91
+        },
+        "payInFour": {
+            "numPaidTickets": 186,
+            "numOutstandingTickets": 76,
+            "numOverdueTickets": 20,
+            "amountCollected": 19336.15
+        }
+    },
+    {
+        "county": "Long",
+        "payInFull": {
+            "numPaidTickets": 60,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 44,
+            "amountCollected": 10363.08
+        },
+        "payInFour": {
+            "numPaidTickets": 280,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 20,
+            "amountCollected": 15591.18
+        }
+    },
+    {
+        "county": "Lowndes",
+        "payInFull": {
+            "numPaidTickets": 115,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 41,
+            "amountCollected": 9174.67
+        },
+        "payInFour": {
+            "numPaidTickets": 247,
+            "numOutstandingTickets": 84,
+            "numOverdueTickets": 29,
+            "amountCollected": 17058.07
+        }
+    },
+    {
+        "county": "Lumpkin",
+        "payInFull": {
+            "numPaidTickets": 66,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 41,
+            "amountCollected": 9264.54
+        },
+        "payInFour": {
+            "numPaidTickets": 120,
+            "numOutstandingTickets": 76,
+            "numOverdueTickets": 32,
+            "amountCollected": 14354.34
+        }
+    },
+    {
+        "county": "McDuffie",
+        "payInFull": {
+            "numPaidTickets": 108,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 53,
+            "amountCollected": 9550.05
+        },
+        "payInFour": {
+            "numPaidTickets": 242,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 37,
+            "amountCollected": 20574.29
+        }
+    },
+    {
+        "county": "McIntosh",
+        "payInFull": {
+            "numPaidTickets": 119,
+            "numOutstandingTickets": 79,
+            "numOverdueTickets": 41,
+            "amountCollected": 8427.4
+        },
+        "payInFour": {
+            "numPaidTickets": 123,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 43,
+            "amountCollected": 20234.57
+        }
+    },
+    {
+        "county": "Macon",
+        "payInFull": {
+            "numPaidTickets": 89,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 49,
+            "amountCollected": 10022.38
+        },
+        "payInFour": {
+            "numPaidTickets": 268,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 29,
+            "amountCollected": 17588.97
+        }
+    },
+    {
+        "county": "Madison",
+        "payInFull": {
+            "numPaidTickets": 140,
+            "numOutstandingTickets": 84,
+            "numOverdueTickets": 48,
+            "amountCollected": 9222.07
+        },
+        "payInFour": {
+            "numPaidTickets": 264,
+            "numOutstandingTickets": 56,
+            "numOverdueTickets": 26,
+            "amountCollected": 13235.09
+        }
+    },
+    {
+        "county": "Marion",
+        "payInFull": {
+            "numPaidTickets": 116,
+            "numOutstandingTickets": 78,
+            "numOverdueTickets": 40,
+            "amountCollected": 8666.24
+        },
+        "payInFour": {
+            "numPaidTickets": 136,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 28,
+            "amountCollected": 15606.04
+        }
+    },
+    {
+        "county": "Meriwether",
+        "payInFull": {
+            "numPaidTickets": 113,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 48,
+            "amountCollected": 8687.37
+        },
+        "payInFour": {
+            "numPaidTickets": 279,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 22,
+            "amountCollected": 17283.18
+        }
+    },
+    {
+        "county": "Miller",
+        "payInFull": {
+            "numPaidTickets": 91,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 44,
+            "amountCollected": 8757.34
+        },
+        "payInFour": {
+            "numPaidTickets": 213,
+            "numOutstandingTickets": 55,
+            "numOverdueTickets": 34,
+            "amountCollected": 19483.38
+        }
+    },
+    {
+        "county": "Mitchell",
+        "payInFull": {
+            "numPaidTickets": 113,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 54,
+            "amountCollected": 10933.64
+        },
+        "payInFour": {
+            "numPaidTickets": 256,
+            "numOutstandingTickets": 97,
+            "numOverdueTickets": 41,
+            "amountCollected": 17812.27
+        }
+    },
+    {
+        "county": "Monroe",
+        "payInFull": {
+            "numPaidTickets": 135,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 45,
+            "amountCollected": 10955.69
+        },
+        "payInFour": {
+            "numPaidTickets": 167,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 43,
+            "amountCollected": 17625.62
+        }
+    },
+    {
+        "county": "Montgomery",
+        "payInFull": {
+            "numPaidTickets": 79,
+            "numOutstandingTickets": 78,
+            "numOverdueTickets": 58,
+            "amountCollected": 9392.09
+        },
+        "payInFour": {
+            "numPaidTickets": 206,
+            "numOutstandingTickets": 74,
+            "numOverdueTickets": 29,
+            "amountCollected": 14191.61
+        }
+    },
+    {
+        "county": "Morgan",
+        "payInFull": {
+            "numPaidTickets": 140,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 43,
+            "amountCollected": 9758.22
+        },
+        "payInFour": {
+            "numPaidTickets": 220,
+            "numOutstandingTickets": 50,
+            "numOverdueTickets": 22,
+            "amountCollected": 19018.59
+        }
+    },
+    {
+        "county": "Murray",
+        "payInFull": {
+            "numPaidTickets": 110,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 54,
+            "amountCollected": 10989.6
+        },
+        "payInFour": {
+            "numPaidTickets": 166,
+            "numOutstandingTickets": 64,
+            "numOverdueTickets": 22,
+            "amountCollected": 20460.62
+        }
+    },
+    {
+        "county": "Muscogee",
+        "payInFull": {
+            "numPaidTickets": 99,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 44,
+            "amountCollected": 8258.55
+        },
+        "payInFour": {
+            "numPaidTickets": 263,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 45,
+            "amountCollected": 16313.08
+        }
+    },
+    {
+        "county": "Newton",
+        "payInFull": {
+            "numPaidTickets": 132,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 58,
+            "amountCollected": 9580.06
+        },
+        "payInFour": {
+            "numPaidTickets": 124,
+            "numOutstandingTickets": 84,
+            "numOverdueTickets": 25,
+            "amountCollected": 17818.86
+        }
+    },
+    {
+        "county": "Oconee",
+        "payInFull": {
+            "numPaidTickets": 92,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 54,
+            "amountCollected": 9694.72
+        },
+        "payInFour": {
+            "numPaidTickets": 139,
+            "numOutstandingTickets": 60,
+            "numOverdueTickets": 35,
+            "amountCollected": 14041.42
+        }
+    },
+    {
+        "county": "Oglethorpe",
+        "payInFull": {
+            "numPaidTickets": 131,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 48,
+            "amountCollected": 10032.51
+        },
+        "payInFour": {
+            "numPaidTickets": 122,
+            "numOutstandingTickets": 58,
+            "numOverdueTickets": 32,
+            "amountCollected": 13061.26
+        }
+    },
+    {
+        "county": "Paulding",
+        "payInFull": {
+            "numPaidTickets": 101,
+            "numOutstandingTickets": 79,
+            "numOverdueTickets": 48,
+            "amountCollected": 9238.22
+        },
+        "payInFour": {
+            "numPaidTickets": 150,
+            "numOutstandingTickets": 67,
+            "numOverdueTickets": 26,
+            "amountCollected": 17504.91
+        }
+    },
+    {
+        "county": "Peach",
+        "payInFull": {
+            "numPaidTickets": 136,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 48,
+            "amountCollected": 8380.82
+        },
+        "payInFour": {
+            "numPaidTickets": 275,
+            "numOutstandingTickets": 63,
+            "numOverdueTickets": 37,
+            "amountCollected": 17012.48
+        }
+    },
+    {
+        "county": "Pickens",
+        "payInFull": {
+            "numPaidTickets": 137,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 57,
+            "amountCollected": 9004.41
+        },
+        "payInFour": {
+            "numPaidTickets": 279,
+            "numOutstandingTickets": 64,
+            "numOverdueTickets": 21,
+            "amountCollected": 17025.42
+        }
+    },
+    {
+        "county": "Pierce",
+        "payInFull": {
+            "numPaidTickets": 124,
+            "numOutstandingTickets": 75,
+            "numOverdueTickets": 50,
+            "amountCollected": 8261.86
+        },
+        "payInFour": {
+            "numPaidTickets": 205,
+            "numOutstandingTickets": 62,
+            "numOverdueTickets": 25,
+            "amountCollected": 20324.28
+        }
+    },
+    {
+        "county": "Pike",
+        "payInFull": {
+            "numPaidTickets": 98,
+            "numOutstandingTickets": 85,
+            "numOverdueTickets": 51,
+            "amountCollected": 8689.11
+        },
+        "payInFour": {
+            "numPaidTickets": 193,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 28,
+            "amountCollected": 16985.08
+        }
+    },
+    {
+        "county": "Polk",
+        "payInFull": {
+            "numPaidTickets": 92,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 46,
+            "amountCollected": 9646.4
+        },
+        "payInFour": {
+            "numPaidTickets": 193,
+            "numOutstandingTickets": 77,
+            "numOverdueTickets": 40,
+            "amountCollected": 14094.11
+        }
+    },
+    {
+        "county": "Pulaski",
+        "payInFull": {
+            "numPaidTickets": 85,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 44,
+            "amountCollected": 10245.46
+        },
+        "payInFour": {
+            "numPaidTickets": 220,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 37,
+            "amountCollected": 13312.75
+        }
+    },
+    {
+        "county": "Putnam",
+        "payInFull": {
+            "numPaidTickets": 128,
+            "numOutstandingTickets": 89,
+            "numOverdueTickets": 53,
+            "amountCollected": 8881.38
+        },
+        "payInFour": {
+            "numPaidTickets": 208,
+            "numOutstandingTickets": 52,
+            "numOverdueTickets": 37,
+            "amountCollected": 17042.2
+        }
+    },
+    {
+        "county": "Quitman",
+        "payInFull": {
+            "numPaidTickets": 63,
+            "numOutstandingTickets": 75,
+            "numOverdueTickets": 46,
+            "amountCollected": 8211.23
+        },
+        "payInFour": {
+            "numPaidTickets": 260,
+            "numOutstandingTickets": 88,
+            "numOverdueTickets": 28,
+            "amountCollected": 15085.32
+        }
+    },
+    {
+        "county": "Rabun",
+        "payInFull": {
+            "numPaidTickets": 92,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 53,
+            "amountCollected": 8032.85
+        },
+        "payInFour": {
+            "numPaidTickets": 217,
+            "numOutstandingTickets": 88,
+            "numOverdueTickets": 32,
+            "amountCollected": 18069.15
+        }
+    },
+    {
+        "county": "Randolph",
+        "payInFull": {
+            "numPaidTickets": 139,
+            "numOutstandingTickets": 79,
+            "numOverdueTickets": 49,
+            "amountCollected": 9401.17
+        },
+        "payInFour": {
+            "numPaidTickets": 188,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 42,
+            "amountCollected": 16706.91
+        }
+    },
+    {
+        "county": "Richmond",
+        "payInFull": {
+            "numPaidTickets": 101,
+            "numOutstandingTickets": 92,
+            "numOverdueTickets": 43,
+            "amountCollected": 8591
+        },
+        "payInFour": {
+            "numPaidTickets": 146,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 45,
+            "amountCollected": 18921.11
+        }
+    },
+    {
+        "county": "Rockdale",
+        "payInFull": {
+            "numPaidTickets": 88,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 41,
+            "amountCollected": 9632.98
+        },
+        "payInFour": {
+            "numPaidTickets": 219,
+            "numOutstandingTickets": 66,
+            "numOverdueTickets": 39,
+            "amountCollected": 17283.74
+        }
+    },
+    {
+        "county": "Schley",
+        "payInFull": {
+            "numPaidTickets": 123,
+            "numOutstandingTickets": 90,
+            "numOverdueTickets": 50,
+            "amountCollected": 10175.69
+        },
+        "payInFour": {
+            "numPaidTickets": 190,
+            "numOutstandingTickets": 51,
+            "numOverdueTickets": 43,
+            "amountCollected": 16172
+        }
+    },
+    {
+        "county": "Screven",
+        "payInFull": {
+            "numPaidTickets": 109,
+            "numOutstandingTickets": 97,
+            "numOverdueTickets": 51,
+            "amountCollected": 9472.16
+        },
+        "payInFour": {
+            "numPaidTickets": 191,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 41,
+            "amountCollected": 17453.44
+        }
+    },
+    {
+        "county": "Seminole",
+        "payInFull": {
+            "numPaidTickets": 123,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 48,
+            "amountCollected": 9832.38
+        },
+        "payInFour": {
+            "numPaidTickets": 176,
+            "numOutstandingTickets": 94,
+            "numOverdueTickets": 45,
+            "amountCollected": 17504.42
+        }
+    },
+    {
+        "county": "Spalding",
+        "payInFull": {
+            "numPaidTickets": 116,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 60,
+            "amountCollected": 10732
+        },
+        "payInFour": {
+            "numPaidTickets": 259,
+            "numOutstandingTickets": 71,
+            "numOverdueTickets": 44,
+            "amountCollected": 15176.76
+        }
+    },
+    {
+        "county": "Stephens",
+        "payInFull": {
+            "numPaidTickets": 140,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 59,
+            "amountCollected": 10569.08
+        },
+        "payInFour": {
+            "numPaidTickets": 140,
+            "numOutstandingTickets": 70,
+            "numOverdueTickets": 28,
+            "amountCollected": 14246.5
+        }
+    },
+    {
+        "county": "Stewart",
+        "payInFull": {
+            "numPaidTickets": 106,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 42,
+            "amountCollected": 9718.85
+        },
+        "payInFour": {
+            "numPaidTickets": 195,
+            "numOutstandingTickets": 57,
+            "numOverdueTickets": 40,
+            "amountCollected": 14271.19
+        }
+    },
+    {
+        "county": "Sumter",
+        "payInFull": {
+            "numPaidTickets": 79,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 56,
+            "amountCollected": 10208.58
+        },
+        "payInFour": {
+            "numPaidTickets": 138,
+            "numOutstandingTickets": 60,
+            "numOverdueTickets": 33,
+            "amountCollected": 20526.44
+        }
+    },
+    {
+        "county": "Talbot",
+        "payInFull": {
+            "numPaidTickets": 80,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 60,
+            "amountCollected": 10999.04
+        },
+        "payInFour": {
+            "numPaidTickets": 231,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 45,
+            "amountCollected": 14060.22
+        }
+    },
+    {
+        "county": "Taliaferro",
+        "payInFull": {
+            "numPaidTickets": 133,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 45,
+            "amountCollected": 8743.37
+        },
+        "payInFour": {
+            "numPaidTickets": 193,
+            "numOutstandingTickets": 66,
+            "numOverdueTickets": 25,
+            "amountCollected": 18976.56
+        }
+    },
+    {
+        "county": "Tattnall",
+        "payInFull": {
+            "numPaidTickets": 60,
+            "numOutstandingTickets": 84,
+            "numOverdueTickets": 52,
+            "amountCollected": 10752.17
+        },
+        "payInFour": {
+            "numPaidTickets": 182,
+            "numOutstandingTickets": 72,
+            "numOverdueTickets": 29,
+            "amountCollected": 16685.61
+        }
+    },
+    {
+        "county": "Taylor",
+        "payInFull": {
+            "numPaidTickets": 134,
+            "numOutstandingTickets": 95,
+            "numOverdueTickets": 40,
+            "amountCollected": 10689.81
+        },
+        "payInFour": {
+            "numPaidTickets": 215,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 26,
+            "amountCollected": 20301.35
+        }
+    },
+    {
+        "county": "Telfair",
+        "payInFull": {
+            "numPaidTickets": 71,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 55,
+            "amountCollected": 8650
+        },
+        "payInFour": {
+            "numPaidTickets": 241,
+            "numOutstandingTickets": 63,
+            "numOverdueTickets": 37,
+            "amountCollected": 18384.83
+        }
+    },
+    {
+        "county": "Terrell",
+        "payInFull": {
+            "numPaidTickets": 105,
+            "numOutstandingTickets": 93,
+            "numOverdueTickets": 58,
+            "amountCollected": 9521.47
+        },
+        "payInFour": {
+            "numPaidTickets": 276,
+            "numOutstandingTickets": 55,
+            "numOverdueTickets": 21,
+            "amountCollected": 15274.38
+        }
+    },
+    {
+        "county": "Thomas",
+        "payInFull": {
+            "numPaidTickets": 74,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 54,
+            "amountCollected": 9918.8
+        },
+        "payInFour": {
+            "numPaidTickets": 217,
+            "numOutstandingTickets": 54,
+            "numOverdueTickets": 43,
+            "amountCollected": 18121.97
+        }
+    },
+    {
+        "county": "Tift",
+        "payInFull": {
+            "numPaidTickets": 73,
+            "numOutstandingTickets": 98,
+            "numOverdueTickets": 42,
+            "amountCollected": 10917.99
+        },
+        "payInFour": {
+            "numPaidTickets": 249,
+            "numOutstandingTickets": 95,
+            "numOverdueTickets": 27,
+            "amountCollected": 16643.53
+        }
+    },
+    {
+        "county": "Toombs",
+        "payInFull": {
+            "numPaidTickets": 108,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 52,
+            "amountCollected": 9327.94
+        },
+        "payInFour": {
+            "numPaidTickets": 181,
+            "numOutstandingTickets": 88,
+            "numOverdueTickets": 32,
+            "amountCollected": 15453.05
+        }
+    },
+    {
+        "county": "Towns",
+        "payInFull": {
+            "numPaidTickets": 121,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 48,
+            "amountCollected": 10126.48
+        },
+        "payInFour": {
+            "numPaidTickets": 121,
+            "numOutstandingTickets": 71,
+            "numOverdueTickets": 20,
+            "amountCollected": 17264.45
+        }
+    },
+    {
+        "county": "Treutlen",
+        "payInFull": {
+            "numPaidTickets": 137,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 41,
+            "amountCollected": 10021.09
+        },
+        "payInFour": {
+            "numPaidTickets": 280,
+            "numOutstandingTickets": 53,
+            "numOverdueTickets": 20,
+            "amountCollected": 19489.48
+        }
+    },
+    {
+        "county": "Troup",
+        "payInFull": {
+            "numPaidTickets": 110,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 56,
+            "amountCollected": 9691.06
+        },
+        "payInFour": {
+            "numPaidTickets": 242,
+            "numOutstandingTickets": 65,
+            "numOverdueTickets": 44,
+            "amountCollected": 14989.08
+        }
+    },
+    {
+        "county": "Turner",
+        "payInFull": {
+            "numPaidTickets": 124,
+            "numOutstandingTickets": 90,
+            "numOverdueTickets": 58,
+            "amountCollected": 10542.6
+        },
+        "payInFour": {
+            "numPaidTickets": 238,
+            "numOutstandingTickets": 74,
+            "numOverdueTickets": 29,
+            "amountCollected": 18972.23
+        }
+    },
+    {
+        "county": "Twiggs",
+        "payInFull": {
+            "numPaidTickets": 95,
+            "numOutstandingTickets": 96,
+            "numOverdueTickets": 44,
+            "amountCollected": 8959.43
+        },
+        "payInFour": {
+            "numPaidTickets": 174,
+            "numOutstandingTickets": 78,
+            "numOverdueTickets": 24,
+            "amountCollected": 18883.59
+        }
+    },
+    {
+        "county": "Union",
+        "payInFull": {
+            "numPaidTickets": 136,
+            "numOutstandingTickets": 100,
+            "numOverdueTickets": 43,
+            "amountCollected": 10203.39
+        },
+        "payInFour": {
+            "numPaidTickets": 197,
+            "numOutstandingTickets": 70,
+            "numOverdueTickets": 29,
+            "amountCollected": 14175.32
+        }
+    },
+    {
+        "county": "Upson",
+        "payInFull": {
+            "numPaidTickets": 118,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 44,
+            "amountCollected": 8104.08
+        },
+        "payInFour": {
+            "numPaidTickets": 246,
+            "numOutstandingTickets": 82,
+            "numOverdueTickets": 30,
+            "amountCollected": 16753.67
+        }
+    },
+    {
+        "county": "Walker",
+        "payInFull": {
+            "numPaidTickets": 129,
+            "numOutstandingTickets": 83,
+            "numOverdueTickets": 54,
+            "amountCollected": 8193.53
+        },
+        "payInFour": {
+            "numPaidTickets": 241,
+            "numOutstandingTickets": 69,
+            "numOverdueTickets": 28,
+            "amountCollected": 15342.4
+        }
+    },
+    {
+        "county": "Walton",
+        "payInFull": {
+            "numPaidTickets": 132,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 46,
+            "amountCollected": 8403.4
+        },
+        "payInFour": {
+            "numPaidTickets": 157,
+            "numOutstandingTickets": 87,
+            "numOverdueTickets": 27,
+            "amountCollected": 15759.29
+        }
+    },
+    {
+        "county": "Ware",
+        "payInFull": {
+            "numPaidTickets": 88,
+            "numOutstandingTickets": 92,
+            "numOverdueTickets": 55,
+            "amountCollected": 10146.62
+        },
+        "payInFour": {
+            "numPaidTickets": 256,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 28,
+            "amountCollected": 13086.87
+        }
+    },
+    {
+        "county": "Warren",
+        "payInFull": {
+            "numPaidTickets": 131,
+            "numOutstandingTickets": 85,
+            "numOverdueTickets": 45,
+            "amountCollected": 9047.54
+        },
+        "payInFour": {
+            "numPaidTickets": 237,
+            "numOutstandingTickets": 71,
+            "numOverdueTickets": 31,
+            "amountCollected": 16695.48
+        }
+    },
+    {
+        "county": "Washington",
+        "payInFull": {
+            "numPaidTickets": 62,
+            "numOutstandingTickets": 76,
+            "numOverdueTickets": 50,
+            "amountCollected": 8650.25
+        },
+        "payInFour": {
+            "numPaidTickets": 204,
+            "numOutstandingTickets": 50,
+            "numOverdueTickets": 44,
+            "amountCollected": 19089.96
+        }
+    },
+    {
+        "county": "Wayne",
+        "payInFull": {
+            "numPaidTickets": 87,
+            "numOutstandingTickets": 81,
+            "numOverdueTickets": 54,
+            "amountCollected": 8752.45
+        },
+        "payInFour": {
+            "numPaidTickets": 207,
+            "numOutstandingTickets": 53,
+            "numOverdueTickets": 42,
+            "amountCollected": 14459.72
+        }
+    },
+    {
+        "county": "Webster",
+        "payInFull": {
+            "numPaidTickets": 115,
+            "numOutstandingTickets": 77,
+            "numOverdueTickets": 52,
+            "amountCollected": 10931
+        },
+        "payInFour": {
+            "numPaidTickets": 211,
+            "numOutstandingTickets": 59,
+            "numOverdueTickets": 33,
+            "amountCollected": 17639.59
+        }
+    },
+    {
+        "county": "Wheeler",
+        "payInFull": {
+            "numPaidTickets": 88,
+            "numOutstandingTickets": 88,
+            "numOverdueTickets": 54,
+            "amountCollected": 9727.44
+        },
+        "payInFour": {
+            "numPaidTickets": 159,
+            "numOutstandingTickets": 97,
+            "numOverdueTickets": 33,
+            "amountCollected": 14817.88
+        }
+    },
+    {
+        "county": "White",
+        "payInFull": {
+            "numPaidTickets": 110,
+            "numOutstandingTickets": 86,
+            "numOverdueTickets": 51,
+            "amountCollected": 9713.47
+        },
+        "payInFour": {
+            "numPaidTickets": 200,
+            "numOutstandingTickets": 80,
+            "numOverdueTickets": 33,
+            "amountCollected": 17830.48
+        }
+    },
+    {
+        "county": "Whitfield",
+        "payInFull": {
+            "numPaidTickets": 95,
+            "numOutstandingTickets": 88,
+            "numOverdueTickets": 45,
+            "amountCollected": 9329.22
+        },
+        "payInFour": {
+            "numPaidTickets": 142,
+            "numOutstandingTickets": 60,
+            "numOverdueTickets": 28,
+            "amountCollected": 15555.25
+        }
+    },
+    {
+        "county": "Wilcox",
+        "payInFull": {
+            "numPaidTickets": 69,
+            "numOutstandingTickets": 78,
+            "numOverdueTickets": 53,
+            "amountCollected": 8420.14
+        },
+        "payInFour": {
+            "numPaidTickets": 131,
+            "numOutstandingTickets": 66,
+            "numOverdueTickets": 45,
+            "amountCollected": 18536.26
+        }
+    },
+    {
+        "county": "Wilkes",
+        "payInFull": {
+            "numPaidTickets": 72,
+            "numOutstandingTickets": 99,
+            "numOverdueTickets": 40,
+            "amountCollected": 10682.54
+        },
+        "payInFour": {
+            "numPaidTickets": 262,
+            "numOutstandingTickets": 92,
+            "numOverdueTickets": 45,
+            "amountCollected": 13842.87
+        }
+    },
+    {
+        "county": "Wilkinson",
+        "payInFull": {
+            "numPaidTickets": 131,
+            "numOutstandingTickets": 85,
+            "numOverdueTickets": 60,
+            "amountCollected": 9031.6
+        },
+        "payInFour": {
+            "numPaidTickets": 123,
+            "numOutstandingTickets": 64,
+            "numOverdueTickets": 33,
+            "amountCollected": 15582.19
+        }
+    },
+    {
+        "county": "Worth",
+        "payInFull": {
+            "numPaidTickets": 131,
+            "numOutstandingTickets": 89,
+            "numOverdueTickets": 49,
+            "amountCollected": 8876.44
+        },
+        "payInFour": {
+            "numPaidTickets": 178,
+            "numOutstandingTickets": 91,
+            "numOverdueTickets": 41,
+            "amountCollected": 19891.75
+        }
+    }
+]
