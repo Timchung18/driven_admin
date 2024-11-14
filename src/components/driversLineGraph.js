@@ -24,6 +24,7 @@ const initialData = [
   { month: 'Aug', year: 2024, payInFull: 420, payIn4: 300 },
   { month: 'Sep', year: 2024, payInFull: 330, payIn4: 310 },
   { month: 'Oct', year: 2024, payInFull: 260, payIn4: 340 },
+  { month: 'Nov', year: 2024, payInFull: 100, payIn4: 200 },
 ];
 
 const getDateFromMonthYear = (month, year) => new Date(`${month} 1, ${year}`);
@@ -143,7 +144,16 @@ const LineGraph = () => {
               Drivers
             </Label>
           </YAxis>
-          <Tooltip />
+          <Tooltip 
+            formatter={(value, name) => [`${value}`, `${name}`]}
+            labelFormatter={(label, payload) => {
+              if (payload && payload.length > 0) {
+                const year = payload[0].payload.year;
+                return `${label} ${year}`;
+              }
+              return label;
+            }}
+          />
           <Legend />
 
           <Area

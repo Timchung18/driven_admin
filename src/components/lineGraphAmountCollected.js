@@ -24,6 +24,7 @@ const data = [
     { month: 'Aug', year: 2024, paidInFull: 690, paidIn4: 430, paidInFullPercentage: 69, paidIn4Percentage: 31, timeToPaymentPaidInFull: 2, timeToPaymentPaidIn4: 4 },
     { month: 'Sep', year: 2024, paidInFull: 700, paidIn4: 420, paidInFullPercentage: 70, paidIn4Percentage: 30, timeToPaymentPaidInFull: 2, timeToPaymentPaidIn4: 4 },
     { month: 'Oct', year: 2024, paidInFull: 710, paidIn4: 410, paidInFullPercentage: 71, paidIn4Percentage: 29, timeToPaymentPaidInFull: 1, timeToPaymentPaidIn4: 4 },
+    { month: 'Nov', year: 2024, paidInFull: 200, paidIn4: 430, paidInFullPercentage: 32, paidIn4Percentage: 68, timeToPaymentPaidInFull: 3, timeToPaymentPaidIn4: 4 },
   ];
 
 const TrendLineChart = () => {
@@ -53,7 +54,7 @@ const TrendLineChart = () => {
         >
           <CartesianGrid strokeDasharray="3 3" vertical={false} />
           <XAxis dataKey="month" tickLine={false} axisLine={false} tick={{ fill: '#6C757D', fontSize: 12 }}>
-            <Label value="Months" position="insideBottom" offset={-20} />
+            
           </XAxis>
           <YAxis>
             <Label angle={-90} position="insideLeft" style={{ textAnchor: 'middle' }}>
@@ -98,7 +99,7 @@ const TrendLineChart = () => {
         >
           <CartesianGrid strokeDasharray="3 3" vertical={false} />
           <XAxis dataKey="month" tickLine={false} axisLine={false} tick={{ fill: '#6C757D', fontSize: 12 }}>
-            <Label value="Months" position="insideBottom" offset={-20} />
+            
           </XAxis>
           <YAxis>
             <Label angle={-90} position="insideLeft" style={{ textAnchor: 'middle' }}>

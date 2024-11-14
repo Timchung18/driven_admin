@@ -25,7 +25,6 @@ const initialData = [
   { month: 'Sep', year: 2024, traditionalCompletedTickets: 330, drivenCompletedTickets: 310 },
   { month: 'Oct', year: 2024, traditionalCompletedTickets: 260, drivenCompletedTickets: 340 },
   { month: 'Nov', year: 2024, traditionalCompletedTickets: 280, drivenCompletedTickets: 360 },
-  { month: 'Dec', year: 2024, traditionalCompletedTickets: 310, drivenCompletedTickets: 410 },
 ];
 
 // Helper function to create date objects from month and year
@@ -141,7 +140,17 @@ const MyBarChart = ({ data }) => {
             interval={0} // Ensures every label is shown
           />
           <YAxis label={{ value: 'Number of Tickets', angle: -90, position: 'insideLeft' }} />
-          <Tooltip />
+          <Tooltip 
+            formatter={(value, name, props) => [`${value}`, `${name}`]}
+            labelFormatter={(label, payload) => {
+              if (payload && payload.length > 0) {
+                const year = payload[0].payload.year;
+                return `${label} ${year}`;
+              }
+              return label;
+            }}
+          />
+
           <Legend />
           <Bar dataKey="traditionalCompletedTickets" name="Pay in Full" fill="#8884d8" radius={[5, 5, 0, 0]} />
           <Bar dataKey="drivenCompletedTickets" name="Pay in 4" fill="#82ca9d" radius={[5, 5, 0, 0]} />
