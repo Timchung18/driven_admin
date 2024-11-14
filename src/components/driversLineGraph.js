@@ -136,7 +136,7 @@ const LineGraph = () => {
         >
           <CartesianGrid strokeDasharray="3 3" stroke="#e0e0e0" />
           <XAxis dataKey="month">
-            <Label value="Months" position="insideBottom" offset={-5} style={{ textAnchor: 'middle', fill: '#888' }} />
+            
           </XAxis>
           <YAxis>
             <Label angle={-90} position="insideLeft" style={{ textAnchor: 'middle', fill: '#888' }}>

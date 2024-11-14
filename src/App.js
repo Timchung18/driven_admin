@@ -18,7 +18,8 @@ function App() {
         {/* Main content area */}
         <div className="flex-1 p-6 overflow-auto">
           <Routes>
-          <Route path="/" element={<Dashboard />} />
+          <Route path="/" element={<Dashboard/>} />
+          <Route path="/dashboard" element={<Dashboard/>} />
           <Route path="/viewTables" element={<CsvViewer />} />
           <Route path="/heatmap" element={<GeorgiaCountiesMap />} />
           <Route path="/stackedBarChart" element={<StackedBarChart />} />

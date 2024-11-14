@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { FaWallet, FaCreditCard, FaFileInvoice, FaGift, FaChartLine } from 'react-icons/fa';
+import { FaWallet, FaCreditCard, FaFileInvoice, FaGift, FaChartLine, FaTachometerAlt } from 'react-icons/fa';
 
 const Navbar = () => {
   const [activeItem, setActiveItem] = useState('Dashboard');
@@ -16,6 +16,20 @@ const Navbar = () => {
         <div>
           <h3 className="text-xs font-semibold uppercase text-textSecondary tracking-wider mb-4">General</h3>
           <ul className="space-y-2">
+            <li>
+              <Link
+                to="/dashboard"
+                onClick={() => handleItemClick('Dashboard')}
+                className={`flex items-center space-x-3 px-4 py-2 rounded-lg ${
+                  activeItem === 'Dashboard' ? 'bg-accent text-white' : 'hover:bg-gray-100'
+                }`}
+              >
+                <FaTachometerAlt className={`text-lg ${activeItem === 'Dashboard' ? 'text-white' : 'text-accent'}`} />
+                <span className={`${activeItem === 'Dashboard' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
+                  Dashboard
+                </span>
+              </Link>
+            </li>
             <li>
               <Link
                 to="/viewTables"
@@ -85,11 +99,6 @@ const Navbar = () => {
                   Payment Approval
                 </span>
               </Link>
-            </li>
-            <li className="nav-item">
-                <Link to="/dashboard" className="nav-links hover:text-gray-300">
-                Dashboard
-                </Link>
             </li>
           </ul>
         </div>
