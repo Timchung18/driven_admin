@@ -1,13 +1,10 @@
-import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
-import { FaWallet, FaCreditCard, FaFileInvoice, FaGift, FaChartLine, FaTachometerAlt } from 'react-icons/fa';
+import React from 'react';
+import { Link, useLocation } from 'react-router-dom';
+import { FaWallet, FaCreditCard, FaFileInvoice, FaGift, FaChartLine } from 'react-icons/fa';
 
 const Navbar = () => {
-  const [activeItem, setActiveItem] = useState('Dashboard');
-
-  const handleItemClick = (item) => {
-    setActiveItem(item);
-  };
+  const location = useLocation();
+  const currentPath = location.pathname;
 
   return (
     <nav className="bg-background h-screen w-64 p-6 text-textSecondary">
@@ -19,13 +16,12 @@ const Navbar = () => {
             <li>
               <Link
                 to="/dashboard"
-                onClick={() => handleItemClick('Dashboard')}
                 className={`flex items-center space-x-3 px-4 py-2 rounded-lg ${
-                  activeItem === 'Dashboard' ? 'bg-accent text-white' : 'hover:bg-gray-100'
+                  currentPath === '/dashboard' ? 'bg-accent text-white' : 'hover:bg-gray-100'
                 }`}
               >
-                <FaTachometerAlt className={`text-lg ${activeItem === 'Dashboard' ? 'text-white' : 'text-accent'}`} />
-                <span className={`${activeItem === 'Dashboard' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
+                <FaChartLine className={`text-lg ${currentPath === '/dashboard' ? 'text-white' : 'text-accent'}`} />
+                <span className={`${currentPath === '/dashboard' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
                   Dashboard
                 </span>
               </Link>
@@ -33,13 +29,12 @@ const Navbar = () => {
             <li>
               <Link
                 to="/viewTables"
-                onClick={() => handleItemClick('Tables')}
                 className={`flex items-center space-x-3 px-4 py-2 rounded-lg ${
-                  activeItem === 'Tables' ? 'bg-accent text-white' : 'hover:bg-gray-100'
+                  currentPath === '/viewTables' ? 'bg-accent text-white' : 'hover:bg-gray-100'
                 }`}
               >
-                <FaWallet className={`text-lg ${activeItem === 'Tables' ? 'text-white' : 'text-accent'}`} />
-                <span className={`${activeItem === 'Tables' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
+                <FaWallet className={`text-lg ${currentPath === '/viewTables' ? 'text-white' : 'text-accent'}`} />
+                <span className={`${currentPath === '/viewTables' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
                   Tables
                 </span>
               </Link>
@@ -47,13 +42,12 @@ const Navbar = () => {
             <li>
               <Link
                 to="/heatmap"
-                onClick={() => handleItemClick('Map')}
                 className={`flex items-center space-x-3 px-4 py-2 rounded-lg ${
-                  activeItem === 'Map' ? 'bg-accent text-white' : 'hover:bg-gray-100'
+                  currentPath === '/heatmap' ? 'bg-accent text-white' : 'hover:bg-gray-100'
                 }`}
               >
-                <FaFileInvoice className={`text-lg ${activeItem === 'Map' ? 'text-white' : 'text-accent'}`} />
-                <span className={`${activeItem === 'Map' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
+                <FaFileInvoice className={`text-lg ${currentPath === '/heatmap' ? 'text-white' : 'text-accent'}`} />
+                <span className={`${currentPath === '/heatmap' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
                   Map
                 </span>
               </Link>
@@ -61,13 +55,12 @@ const Navbar = () => {
             <li>
               <Link
                 to="/stackedBarChart"
-                onClick={() => handleItemClick('Stacked Bar Chart')}
                 className={`flex items-center space-x-3 px-4 py-2 rounded-lg ${
-                  activeItem === 'Stacked Bar Chart' ? 'bg-accent text-white' : 'hover:bg-gray-100'
+                  currentPath === '/stackedBarChart' ? 'bg-accent text-white' : 'hover:bg-gray-100'
                 }`}
               >
-                <FaCreditCard className={`text-lg ${activeItem === 'Stacked Bar Chart' ? 'text-white' : 'text-accent'}`} />
-                <span className={`${activeItem === 'Stacked Bar Chart' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
+                <FaCreditCard className={`text-lg ${currentPath === '/stackedBarChart' ? 'text-white' : 'text-accent'}`} />
+                <span className={`${currentPath === '/stackedBarChart' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
                   Stacked Bar Chart
                 </span>
               </Link>
@@ -75,13 +68,12 @@ const Navbar = () => {
             <li>
               <Link
                 to="/trendLineChart"
-                onClick={() => handleItemClick('Trend Line Chart')}
                 className={`flex items-center space-x-3 px-4 py-2 rounded-lg ${
-                  activeItem === 'Trend Line Chart' ? 'bg-accent text-white' : 'hover:bg-gray-100'
+                  currentPath === '/trendLineChart' ? 'bg-accent text-white' : 'hover:bg-gray-100'
                 }`}
               >
-                <FaChartLine className={`text-lg ${activeItem === 'Trend Line Chart' ? 'text-white' : 'text-accent'}`} />
-                <span className={`${activeItem === 'Trend Line Chart' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
+                <FaChartLine className={`text-lg ${currentPath === '/trendLineChart' ? 'text-white' : 'text-accent'}`} />
+                <span className={`${currentPath === '/trendLineChart' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
                   Trend Line Chart
                 </span>
               </Link>
@@ -89,13 +81,12 @@ const Navbar = () => {
             <li>
               <Link
                 to="/paymentApproval"
-                onClick={() => handleItemClick('Payment Approval')}
                 className={`flex items-center space-x-3 px-4 py-2 rounded-lg ${
-                  activeItem === 'Payment Approval' ? 'bg-accent text-white' : 'hover:bg-gray-100'
+                  currentPath === '/paymentApproval' ? 'bg-accent text-white' : 'hover:bg-gray-100'
                 }`}
               >
-                <FaGift className={`text-lg ${activeItem === 'Payment Approval' ? 'text-white' : 'text-accent'}`} />
-                <span className={`${activeItem === 'Payment Approval' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
+                <FaGift className={`text-lg ${currentPath === '/paymentApproval' ? 'text-white' : 'text-accent'}`} />
+                <span className={`${currentPath === '/paymentApproval' ? 'text-white font-semibold' : 'text-textPrimary'}`}>
                   Payment Approval
                 </span>
               </Link>
