@@ -49,7 +49,7 @@ const TrendLineChart = () => {
         <AreaChart
           data={data}
           margin={{
-            top: 10, right: 30, left: 0, bottom: 70,
+            top: 10, right: 30, left: 20, bottom: 70,
           }}
         >
           <CartesianGrid strokeDasharray="3 3" vertical={false} />
@@ -94,7 +94,7 @@ const TrendLineChart = () => {
         <AreaChart
           data={data}
           margin={{
-            top: 10, right: 30, left: 0, bottom: 70,
+            top: 10, right: 30, left: 20, bottom: 70,
           }}
         >
           <CartesianGrid strokeDasharray="3 3" vertical={false} />

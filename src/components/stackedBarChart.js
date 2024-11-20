@@ -27,7 +27,7 @@ const StackedBarChart = () => {
           margin={{
             top: 10,
             right: 30,
-            left: 0,
+            left: 20, // Adjusted left margin to prevent Y-axis label cut-off
             bottom: 50,
           }}
           barCategoryGap="20%"
@@ -43,7 +43,7 @@ const StackedBarChart = () => {
             />
           </XAxis>
           <YAxis tickLine={false} axisLine={false}>
-            <Label angle={-90} position="insideLeft" style={{ textAnchor: 'middle', fill: '#6C757D' }}>
+            <Label angle={-90} position="insideLeft" style={{ textAnchor: 'middle', fill: '#6C757D' }} dy={-10}>
               Fines ($)
             </Label>
           </YAxis>
