@@ -1,5 +1,5 @@
 import './App.css';
-import CsvViewer from './components/loadCSV';
+import TicketsTable from './components/loadCSV';
 import GeorgiaCountiesMap from './components/countiesHeatMap';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
@@ -20,7 +20,7 @@ function App() {
           <Routes>
           <Route path="/" element={<Dashboard/>} />
           <Route path="/dashboard" element={<Dashboard/>} />
-          <Route path="/viewTables" element={<CsvViewer />} />
+          <Route path="/viewTables" element={<TicketsTable />} />
           <Route path="/heatmap" element={<GeorgiaCountiesMap />} />
           <Route path="/stackedBarChart" element={<StackedBarChart />} />
           <Route path="/trendLineChart" element={<TrendLineChart />} />
