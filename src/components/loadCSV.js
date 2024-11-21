@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { supabase } from '../supabaseClient';
+import Papa from 'papaparse';
 
 function TicketsTable() {
   const [tickets, setTickets] = useState([]);
@@ -143,24 +144,48 @@ function TicketsTable() {
     fetchTickets();
   }, []);
 
-  const sortData = (key) => {
-    const direction = sortConfig.key === key && sortConfig.direction === 'asc' ? 'desc' : 'asc';
-    setSortConfig({ key, direction });
-
-    const sortedTickets = [...tickets].sort((a, b) => {
-      const aValue = a[key] || '';
-      const bValue = b[key] || '';
-      if (typeof aValue === 'string' && typeof bValue === 'string') {
-        return direction === 'asc' ? aValue.localeCompare(bValue) : bValue.localeCompare(aValue);
-      }
-      if (typeof aValue === 'number' && typeof bValue === 'number') {
-        return direction === 'asc' ? aValue - bValue : bValue - aValue;
-      }
-      return 0;
-    });
-
-    setTickets(sortedTickets);
+  const exportToCSV = () => {
+    const csv = Papa.unparse(
+      tickets.map((ticket) => ({
+        TicketNumber: ticket.ticket_number || 'N/A',
+        TicketAmount: typeof ticket.amount === 'number' ? `$${ticket.amount.toFixed(2)}` : 'N/A',
+        TicketStatus: ticket.status || 'N/A',
+        PlanType: ticket.plan_type || 'N/A',
+        PlanStatus: ticket.approval_status || 'N/A',
+        InstallmentNumber: ticket.installment_number || 'N/A',
+        InstallmentDueDate: (ticket.installment_due_date && ticket.installment_due_date !== "N/A")
+          ? new Date(ticket.installment_due_date).toLocaleDateString()
+          : 'N/A',
+        InstallmentAmount:
+          typeof ticket.installment_amount === 'number'
+            ? `$${ticket.installment_amount.toFixed(2)}`
+            : 'N/A',
+        InstallmentOverdueFees:
+          typeof ticket.installment_overdue_fees === 'number'
+            ? `$${ticket.installment_overdue_fees.toFixed(2)}`
+            : 'N/A',
+        InstallmentStatus: ticket.installment_status || 'N/A',
+        PaymentAmount:
+          typeof ticket.payment_amount === 'number'
+            ? `$${ticket.payment_amount.toFixed(2)}`
+            : 'N/A',
+        PaymentDate: 
+        (ticket.payment_date && ticket.payment_date !== "N/A")
+          ? new Date(ticket.payment_date).toLocaleDateString()
+          : 'N/A',
+      }))
+    );
+  
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.setAttribute('download', 'tickets_data.csv');
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
+
   const handleSort = (column) => {
     const sorted = [...tickets].sort((a, b) => {
       let aValue = a[column];
@@ -211,17 +236,18 @@ function TicketsTable() {
     setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
   };
   
-  
-  
-  
-  
-
   if (loading) return <div>Loading tickets...</div>;
   if (error) return <div>Error: {error}</div>;
 
   return (
     <div className="bg-white rounded-lg shadow-lg p-6 max-w-6xl mx-auto">
       <h2 className="text-xl font-semibold text-gray-800 mb-6">Tickets and Related Information</h2>
+      <button
+        onClick={exportToCSV}
+        className="mb-6 px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
+      >
+        Export to CSV
+      </button>
 
       {/* Display Aggregated Stats */}
       <div className="grid grid-cols-4 gap-4 mb-6">
@@ -299,7 +325,7 @@ function TicketsTable() {
       <td className="px-4 py-3 text-sm text-gray-800">{ticket.approval_status || 'N/A'}</td>
       <td className="px-4 py-3 text-sm text-gray-800">{ticket.installment_number || 'N/A'}</td>
       <td className="px-4 py-3 text-sm text-gray-800">
-        {ticket.installment_due_date ? new Date(ticket.installment_due_date).toLocaleDateString() : 'N/A'}
+        {(ticket.installment_due_date && ticket.installment_due_date !== "N/A") ? new Date(ticket.installment_due_date).toLocaleDateString() : 'N/A'}
       </td>
       <td className="px-4 py-3 text-sm text-gray-800">
         {typeof ticket.installment_amount === 'number'
@@ -318,7 +344,7 @@ function TicketsTable() {
           : 'N/A'}
       </td>
       <td className="px-4 py-3 text-sm text-gray-800">
-        {ticket.payment_date && ticket.payment_date != "N/A" ? new Date(ticket.payment_date).toLocaleDateString() : 'N/A'}
+        {ticket.payment_date && ticket.payment_date !== "N/A" ? new Date(ticket.payment_date).toLocaleDateString() : 'N/A'}
       </td>
     </tr>
   ))}
